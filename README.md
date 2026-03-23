@@ -1,6 +1,6 @@
 # 🛡️ Risk-Sentinel: MLOps & Model Audit Framework
 
-Este repositorio contiene la unidad de vigilancia avanzada diseñada para auditar y monitorear el desempeño del **Motor de Riesgo v2.0**. Su objetivo es detectar degradaciones en la población (**Data Drift**) y fallas en la estabilidad del modelo antes de que impacten la rentabilidad de la cartera crediticia.
+Este repositorio contiene la unidad de vigilancia avanzada diseñada para auditar y monitorear el desempeño del **Motor de Riesgo v2.0: Refactorización a Framework de Grado Bancario**. Su objetivo es detectar degradaciones en la población (**Data Drift**) y fallas en la estabilidad del modelo antes de que impacten la rentabilidad de la cartera crediticia.
 
 ---
 
